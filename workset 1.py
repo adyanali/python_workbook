@@ -40,3 +40,4 @@ grand_total = meal_cost+tip + tax
 print("Bill \nMeal \t",meal_cost,"\nTip \t",tip)
 print("Tax \t",tax,"\nGrand total \t",grand_total)
 
+#Exercise 7
